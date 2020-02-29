@@ -1,9 +1,7 @@
-Este é o exemplo de um ficheiro de texto...
+Este é o exemplo de um ficheiro de texto...1
 
 ALTERAÇÕES EFETUADAS NO BRANCH 'NOVAFEATURE'
 
 ALTERAÇÕES EM NOVAFEATURE
 
 ALTERAÇÃO EM MASTER
-
-
