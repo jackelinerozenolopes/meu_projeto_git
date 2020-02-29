@@ -1,3 +1,6 @@
 Este é o exemplo de um ficheiro de texto...
 
 ALTERAÇÕES EFETUADAS NO BRANCH 'NOVAFEATURE'
+
+ALTERAÇÕES EM NOVAFEATURE
+
